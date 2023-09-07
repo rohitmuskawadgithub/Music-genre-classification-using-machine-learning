@@ -1,0 +1,2 @@
+# Music-genre-classification-using-machine-learning
+ The project aims to develop a system that can automatically classify music tracks into different genres based on their audio features. By utilizing machine learning algorithms, the system can analyze the audio characteristics of music tracks and accurately assign them to specific genres, enabling efficient organization and recommendation of music
